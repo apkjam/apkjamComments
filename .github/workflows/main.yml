@@ -1,4 +1,4 @@
-- name: Close Pull
+name: Close Pull
   # You may pin to the exact commit or the version.
   # uses: peter-evans/close-pull@1c1391744e3edea5f4cb6276e6f592c20983bfc2
   uses: peter-evans/close-pull@v1.1.3
